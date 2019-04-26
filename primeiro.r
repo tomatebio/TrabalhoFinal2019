@@ -2,5 +2,5 @@
 ## 
  
 my_mean<-function(mdmdmm,){
-        kdkdk
+        mean(mdmeme)
 }
